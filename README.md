@@ -12,7 +12,7 @@
   <a href="https://processing.org/" target="_blank"><img align="center" alt="grs-Pr" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg"> 
   <a href="https://www.arduino.cc/" target="_blank"><img align="center" alt="grs-ad" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <a href="https://www.beecrowd.com.br/judge/pt/profile/559478" target="_blank"><img align="center" alt="grs-bee" height="40" width="50" src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" target="_blank"></a>
-  <img align="right" alt="grs-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="grs-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/76768640/159554331-7ec5ae93-6152-4393-bae8-807963b8f404.gif">
 </div>
   
  ##
