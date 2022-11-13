@@ -5,8 +5,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="grs-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
-  <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank"><img align="center" alt="grs-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+   <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank"><img align="center" alt="grs-C#" height="33" width="33" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c_256x256.png">
   <a href="https://pt.wikipedia.org/wiki/C%2B%2B" target="_blank"><img align="center" alt="grs-C+" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="grs-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <a href="https://processing.org/" target="_blank"><img align="center" alt="grs-Pr" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg"> 
