@@ -1,26 +1,53 @@
-## Olá!! Eu sou o Gabriel, estudante de Engenharia da Automação e apaixonado por programação e tecnologia!
 <div align="center">
-  <a href="https://github.com/Gabriel-br2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-br2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-br2&layout=compact&langs_count=7&theme=dark"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2CA9B8&center=true&vCenter=true&random=false&width=435&lines=Hello+World%2C+I'm+Gabriel!;I'm+an+Automation+Engineering+Student;Welcome+to+my+GIT" alt="Typing SVG" /></a>
 </div>
-  
-<div style="display: inline_block"><br>
-   <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank"><img align="center" alt="grs-C#" height="33" width="33" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c_256x256.png">
-  <a href="https://www.python.org/" target="_blank"><img align="center" alt="grs-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <a href="https://processing.org/" target="_blank"><img align="center" alt="grs-Pr" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg"> 
-  <a href="https://www.arduino.cc/" target="_blank"><img align="center" alt="grs-ad" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  <a href="https://www.beecrowd.com.br/judge/pt/profile/559478" target="_blank"><img align="center" alt="grs-bee" height="40" width="50" src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" target="_blank"></a>
+
+##
+
+<p align="center">Hey there, welcome to my profile, here you will find the codes for some of my public projects!</p>
+
+
+**<p align="center">Open to collaborate on technological projects</p>**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-rocha-de-souza-69a3241ba" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"> 
+  </a>
+  <a href="mailto:souza.gabriel.0210@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+   </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+###
+
+- 🔭 I’m currently working on **a project in the automotive industry**
+
+- 🌱 I’m currently learning **ROS and Robotic**
+
+- 🤝 I’m looking to collaborate on **technological innovation**
   
- ##
+##
   
-<div>
-  <a href="https://instagram.com/gabrielrocha_s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:souza.gabriel.0210@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-rocha-de-souza-69a3241ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.facebook.com/profile.php?id=100007206135612" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-    
+<div align="center"> 
+
 ![Snake animation](https://github.com/Gabriel-br2/Gabriel-br2/blob/output/github-contribution-grid-snake.svg)  
 
 </div>
-  
