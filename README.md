@@ -40,7 +40,7 @@
 
 - 🔭 I’m currently working on **a project in the automotive industry**
 
-- 🌱 I’m currently learning **ROS and Robotic**
+- 🌱 I’m currently learning **ROS 2 and Robotic**
 
 - 🤝 I’m looking to collaborate on **technological innovation**
   
