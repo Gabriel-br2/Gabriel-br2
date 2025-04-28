@@ -1,9 +1,9 @@
-name: Generate Datas
+name: Gerar Snake do Gabriel e publicar
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa todo dia à meia-noite (UTC)
-  workflow_dispatch: # Permite executar manualmente pelo GitHub
+    - cron: "0 0 * * *" # Executa todo dia à meia-noite
+  workflow_dispatch: # Permite executar manualmente
 
 jobs:
   generate:
@@ -19,3 +19,12 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit e enviar arquivos gerados
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git checkout --orphan output
+          git --work-tree=dist add --all
+          git --work-tree=dist commit -m 'Update Snake animation'
+          git push origin HEAD:output --force
