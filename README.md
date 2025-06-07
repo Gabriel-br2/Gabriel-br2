@@ -38,11 +38,16 @@
 
 ###
 
-- 🔭 I’m currently working on **a project in the automotive industry**
+- 🤝 I’m looking to collaborate on **technological innovation**
 
 - 🌱 I’m currently learning **ROS 2 and Robotic**
 
-- 🤝 I’m looking to collaborate on **technological innovation**
+- 🔭 I’m currently working on:
+  - **Digital Twin Project** - An automated quality inspection platform for the **automotive industry**, gaining practical experience with a industrial robotic manipulator.
+    
+  - **NAVMS Project** - A geolocation system for **unmanned military aviation** in the context of GNSS signal degradation.
+
+  - **Bio-Caneta Project** - A prototype surgical tool for **plastic otolaryngology** designed for the efficient and safe grinding and application of nasal cartilage.
   
 ##
   
