@@ -47,7 +47,7 @@
     
   - **NAVMS Project** - A geolocation system for **unmanned military aviation** in the context of GNSS signal degradation.
 
-  - **Bio-Caneta Project** - A prototype surgical tool for **plastic otolaryngology** designed for the efficient and safe grinding and application of nasal cartilage.
+  - **Bio-Pen Project** - A prototype surgical tool for **plastic otolaryngology** designed for the efficient and safe grinding and application of nasal cartilage.
   
 ##
   
