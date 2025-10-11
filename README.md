@@ -4,10 +4,12 @@
 
 ##
 
-<p align="center">Hey there, welcome to my profile, here you will find the codes for some of my public projects!</p>
-
+<p align="center">Hi there! 👋 I'm Gabriel Rocha de Souza, an <strong>Automation Engineering student at FURG</strong> focused about <strong>robotics, embedded systems, and automation</strong>.  
+Here you'll find a selection of my public projects.</p>
 
 **<p align="center">Open to collaborate on technological projects</p>**
+
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-rocha-de-souza-69a3241ba" target="_blank">
@@ -19,7 +21,6 @@
 </div>
 
 ###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
@@ -35,6 +36,8 @@
 </div>
 
 ###
+
+---
 
 ###
 
