@@ -10,6 +10,7 @@ Here you'll find a selection of my public projects.</p>
 **<p align="center">Open to collaborate on technological projects</p>**
 
 ---
+**<p align="center">🌐 Connect with Me:</p>**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-rocha-de-souza-69a3241ba" target="_blank">
@@ -20,7 +21,19 @@ Here you'll find a selection of my public projects.</p>
    </a>
 </div>
 
-###
+#
+
+### 🤖 About Me
+
+- 🌱 Currently exploring Artificial Intelligence and Human–LLM collaboration techniques.. 
+- 🤝 Open to collaborate on **automation, robotics, and tech innovation**.  
+- 💡 I enjoy turning complex engineering problems into practical solutions.  
+- ⚙️ Interested in **industrial robotics**, **IoT systems**, and **AI for automation**.  
+
+#
+
+**<p align="center">🧰 Tech Stack:</p>**
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
@@ -33,24 +46,29 @@ Here you'll find a selection of my public projects.</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-original.svg"  height="40" alt="fusion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original-wordmark.svg" height="40" alt="ROS logo" />
+          
+          
+          
+          
 </div>
-
-###
 
 ---
 
-###
+###  🔭 Currently working on:
 
-- 🤝 I’m looking to collaborate on **technological innovation**
-
-- 🌱 I’m currently learning **ROS 2 and Robotic**
-
-- 🔭 I’m currently working on:
   - **Digital Twin Project** - An automated quality inspection platform for the **automotive industry**, gaining practical experience with a industrial robotic manipulator.
     
-  - **NAVMS Project** - A geolocation system for **unmanned military aviation** in the context of GNSS signal degradation.
+  - **NAVMS Project** - A **geolocation system** for unmanned aerial vehicles operating under **GNSS degradation** conditions.  .
 
-  - **Bio-Pen Project** - A prototype surgical tool for **plastic otolaryngology** designed for the efficient and safe grinding and application of nasal cartilage.
+  - **Bio-Pen Project** - A prototype surgical tool for **plastic otolaryngology** designed for efficient grinding and application of nasal cartilage while preserving cell viability.
   
 ##
   
