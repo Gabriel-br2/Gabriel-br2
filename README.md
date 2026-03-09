@@ -1,10 +1,10 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2CA9B8&center=true&vCenter=true&random=false&width=435&lines=Hello+World%2C+I'm+Gabriel!;I'm+an+Automation+Engineering+Student;Welcome+to+my+GIT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2CA9B8&center=true&vCenter=true&random=false&width=435&lines=Hello+World%2C+I'm+Gabriel!;I'm+an+Automation+Engineer;Welcome+to+my+GIT" alt="Typing SVG" /></a>
 </div>
 
 ##
 
-<p align="center">Hi there! 👋 I'm Gabriel Rocha de Souza, an <strong>Automation Engineering student at FURG</strong> focused about <strong>robotics, embedded systems, and automation</strong>.  
+<p align="center">Hi there! 👋 I'm Gabriel Rocha de Souza, an <strong>Automation Engineer</strong> focused about <strong>robotics, embedded systems, and automation</strong>.  
 Here you'll find a selection of my public projects.</p>
 
 **<p align="center">Open to collaborate on technological projects</p>**
