@@ -63,11 +63,12 @@ Here you'll find a selection of my public projects.</p>
 ---
 
 ###  🔭 Currently working on:
-
-  - **Digital Twin Project** - An automated quality inspection platform for the **automotive industry**, gaining practical experience with a industrial robotic manipulator.
     
   - **NAVMS Project** - A **geolocation system** for unmanned aerial vehicles operating under **GNSS degradation** conditions.  .
 
+### 🔭 Previously worked on:
+  - **Digital Twin Project** - An automated quality inspection platform for the **automotive industry**, gaining practical experience with a industrial robotic manipulator.
+    
   - **Bio-Pen Project** - A prototype surgical tool for **plastic otolaryngology** designed for efficient grinding and application of nasal cartilage while preserving cell viability.
   
 ##
